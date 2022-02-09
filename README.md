@@ -12,7 +12,7 @@
   * [Questions](#questions)
   
   ## Installation 
-  Simply copy the Loadstring and execute it. Feather-Admin should load shortly.
+  Simply copy the Loadstring and execute it. Feather-Admin should load shortly after.
 
   ## Usage 
   All commands are located in the Command Bar. Use the 'Tab' Keybind to Toggle the Command Bar.
