@@ -19,7 +19,7 @@
   All commands are located in the Command Bar. Use the Key `;` to toggle the Command Bar. The chat prefix is also `;`. The prefix is `;` by default. (obviously)
 
   ## License 
-  This project is licensed under MIT
+  This project is licensed under GPL-3.0
 
   ## Questions
   If you have any questions about this project, please contact us directly on Discord. You can view more about Feather Utilities at https://github.com/Feather-Utilities.
