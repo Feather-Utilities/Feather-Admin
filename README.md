@@ -1,5 +1,5 @@
 # Feather Admin
-  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github licence](http://img.shields.io/badge/License-GPL--3.0-green.svg)
 
   
   ## Description 
